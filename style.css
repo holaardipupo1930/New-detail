@@ -1,0 +1,27 @@
+.container{
+    height: auto;
+    width: 32rem;
+    background-color: rgb(123, 255, 0);
+    padding: 0rem;
+    text-align: center;
+    box-shadow: 1px 2px red;
+}
+
+.box{
+    height: 20px;
+    margin: auto;
+    width: 10rem;
+    background-color: white;
+    border: 1px solid rgb(39, 46, 39);
+    padding: 17px;
+}
+
+button{
+    border-radius: 7px;
+    height: 2rem;
+    width: 10rem;
+    background-color: rgb(194, 57, 16);
+    color: white;
+    margin: 2rem;
+}
+
